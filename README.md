@@ -1,5 +1,9 @@
 <h1 align="left">Hi there 👋, I'm Manan</h1>
-<h3 align="left">A passionate developer from Perth, WA</h3>
+<p>
+Motivated, passionate final year Master’s student in Computer Science in Perth with over two years of
+experience as a Software Engineer. Skilled in Python, JavaScript, and PostgreSQL, with a strong
+interest in problem solving across both frontend and backend development.
+</p>
 
 - 🔭 I’m currently working on [Fullstack React with Typescript](todo)
 - 🌱 I’m currently learning **Fullstack React with Typescript**
