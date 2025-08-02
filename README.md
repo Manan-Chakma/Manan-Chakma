@@ -3,7 +3,7 @@
 Motivated, passionate final year Master’s student in Computer Science in Perth with over two years of
 experience as a Software Engineer. Skilled in Python, JavaScript, and PostgreSQL, with a strong
 interest in problem solving across both frontend and backend development. Currently working as a 
-Placement Student - Security and risk support Officer at WA Police Force
+Placement Student - Security and Risk Support Officer at WA Police Force
 
 </p>
 
