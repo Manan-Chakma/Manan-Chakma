@@ -2,11 +2,13 @@
 <p>
 Motivated, passionate final year Master’s student in Computer Science in Perth with over two years of
 experience as a Software Engineer. Skilled in Python, JavaScript, and PostgreSQL, with a strong
-interest in problem solving across both frontend and backend development.
+interest in problem solving across both frontend and backend development. Currently working as a 
+Placement Student - Security and risk support Officer at WA Police Force
+
 </p>
 
-- 🔭 I’m currently working on [Fullstack React with Typescript](todo)
-- 🌱 I’m currently learning **Fullstack React with Typescript**
+- 🔭 I’m currently working on a [python packaging with .NET UI suuport in multi OS platform application](todo)
+- 🌱 I’m currently learning **python packaging and .NET application**
 - 📫 How to reach me **mananchakma32@gmail.com**
 - 😄 Pronouns: He/Him
 - 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1Jbo5jYlTSDA0YHj94_0mk-L0a6CaqobW/view?usp=sharing)
