@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋, I'm Manan</h1>
 <p>
-Motivated, passionate graduate Master’s student in Computer Science in Perth. Skilled in Python, JavaScript, and PostgreSQL, with a strong
+Motivated, passionate Master’s Graduate in Computer Science in Perth. Skilled in Python, JavaScript, and PostgreSQL, with a strong
 interest in problem solving across both frontend and backend development. I'm actively looking for full-time opportunities.
 
 </p>
