@@ -5,8 +5,8 @@ interest in problem solving across both frontend and backend development. I'm ac
 
 </p>
 
-- 🔭 I’m currently working on a [personal portfolio](todo)
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working on a [personal portfolio](https://github.com/Manan-Chakma/manan-portfolio)
+- 🌱 I’m building the portfolio using **Next.js, Tailwind CSS**
 - 📫 How to reach me **mananchakma32@gmail.com**
 - 😄 Pronouns: He/Him
 - 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1Jbo5jYlTSDA0YHj94_0mk-L0a6CaqobW/view?usp=sharing)
