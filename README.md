@@ -9,7 +9,7 @@ interest in problem solving across both frontend and backend development. I'm ac
 - 🌱 I’m building the portfolio using **Next.js, Tailwind CSS**
 - 📫 How to reach me **mananchakma32@gmail.com**
 - 😄 Pronouns: He/Him
-- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1Jbo5jYlTSDA0YHj94_0mk-L0a6CaqobW/view?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/16RanjBwcf1nIvKTCIxBCS8iJgGI6iEhE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
